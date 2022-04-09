@@ -20,7 +20,7 @@
          while(n>0)
          {
              result*=n;
-						 n--;
+						 n=n-1;
          }
          return result;
      }
