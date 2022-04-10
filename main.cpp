@@ -20,7 +20,7 @@
          while(n>0)
          {
              result*=n;
-						 --n1934;
+						 --n1934>>>1414;
          }
          return result;
      }
